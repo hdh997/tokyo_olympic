@@ -1,0 +1,9 @@
+{
+	"name": "hdh-tokyo-olympic-df",
+	"location": "australiasoutheast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "67e45ad6-ec36-4132-8f42-b0bc2db0ba8a",
+		"tenantId": "87289a64-1766-4545-90f0-81b21d8eafd1"
+	}
+}
