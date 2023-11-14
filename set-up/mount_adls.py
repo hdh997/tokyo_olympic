@@ -1,4 +1,9 @@
 # Databricks notebook source
+#Create app regis
+#Get client-id, tenent-id, secret
+#Give access control on storage
+#add those secrets to azure keyvault
+#create secret scope in DataBricks
 dbutils.secrets.help()
 
 # COMMAND ----------
